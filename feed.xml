@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-04-08 18:21">
+<yml_catalog date="2026-04-08 18:29">
     <shop>
         <name>Foxxi</name>
         <company>Foxxi Store</company>
@@ -8,11 +8,11 @@
         <categories><category id="1">Автоматизація</category></categories>
         <offers>
         <offer id="234574223" available="true">
-                <price>409</price>
-                <currencyId>UAH</currencyId>
-                <categoryId>1</categoryId>
-                <name><![CDATA[Вакуумний пакувальник Vacuum Sealer 250мм + Подарунок Пакети 5м]]></name>
-                <description><![CDATA[<div class="ck-alert ck-alert_theme_orange">
+            <price>409</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>1</categoryId>
+            <name><![CDATA[Вакуумний пакувальник Vacuum Sealer 250мм + Подарунок Пакети 5м]]></name>
+            <description><![CDATA[<div class="ck-alert ck-alert_theme_orange">
 <h2 style="text-align:center"><span style="color:#fc7d02"><strong>Вакуумний пакувальник Vacuum Sealer 250мм + Подарунок Пакети 5м</strong></span></h2>
 </div>
 <h3><span style="color:#fc7d02"><strong>Переваги:</strong></span></h3>
@@ -42,13 +42,13 @@
 </ul>
 <p><a href="http://foxxi.com.ua/ua/contacts"><img alt="" src="https://images.prom.ua/6639372005_w1280_h1280_ua1.png?fresh=1" style="width: 49%;" /></a><a href="http://foxxi.com.ua/ua/delivery_info"><img alt="" src="https://images.prom.ua/6639372017_w1280_h1280_ua2.png?fresh=1" style="width: 49%; float: right;" /></a></p>
 <p><a href="http://foxxi.com.ua/ua/product_list"><img alt="" src="https://images.prom.ua/6639378649_w1280_h1280_ua3.png?fresh=1" style="width: 49%;" /></a><a href="http://foxxi.com.ua/ua/"><img alt="" src="https://images.prom.ua/6639372004_w1280_h1280_ua4.png?fresh=1" style="width: 49%; float: right;" /></a></p>]]></description>
-            </offer>
+        </offer>
         <offer id="234591805" available="true">
-                <price>950</price>
-                <currencyId>UAH</currencyId>
-                <categoryId>1</categoryId>
-                <name><![CDATA[MicroSD 128GB – Карта пам'яті для смартфона, камери та планшета]]></name>
-                <description><![CDATA[<div class="ck-alert ck-alert_theme_orange">
+            <price>950</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>1</categoryId>
+            <name><![CDATA[MicroSD 128GB – Карта пам'яті для смартфона, камери та планшета]]></name>
+            <description><![CDATA[<div class="ck-alert ck-alert_theme_orange">
 <h2 style="text-align:center"><span style="color:#fc7d02"><strong>MicroSD 128GB – Карта пам'яті для смартфона, камери та планшета</strong></span></h2>
 </div>
 <h3><span style="color:#fc7d02"><strong>Переваги:</strong></span></h3>
@@ -76,13 +76,13 @@
 </ul>
 <p><a href="http://foxxi.com.ua/ua/contacts"><img alt="" src="https://images.prom.ua/6639372005_w1280_h1280_ua1.png?fresh=1" style="width: 49%;" /></a><a href="http://foxxi.com.ua/ua/delivery_info"><img alt="" src="https://images.prom.ua/6639372017_w1280_h1280_ua2.png?fresh=1" style="width: 49%; float: right;" /></a></p>
 <p><a href="http://foxxi.com.ua/ua/product_list"><img alt="" src="https://images.prom.ua/6639378649_w1280_h1280_ua3.png?fresh=1" style="width: 49%;" /></a><a href="http://foxxi.com.ua/ua/"><img alt="" src="https://images.prom.ua/6639372004_w1280_h1280_ua4.png?fresh=1" style="width: 49%; float: right;" /></a></p>]]></description>
-            </offer>
+        </offer>
         <offer id="234568441" available="true">
-                <price>2</price>
-                <currencyId>UAH</currencyId>
-                <categoryId>1</categoryId>
-                <name><![CDATA[WiFi IP камера 6MP Dual Lens з сиреною + карта пам'яті 128GB в подарунок]]></name>
-                <description><![CDATA[<div class="ck-alert ck-alert_theme_orange">
+            <price>2</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>1</categoryId>
+            <name><![CDATA[WiFi IP камера 6MP Dual Lens з сиреною + карта пам'яті 128GB в подарунок]]></name>
+            <description><![CDATA[<div class="ck-alert ck-alert_theme_orange">
 <h2 style="text-align:center"><span style="color:#fc7d02"><strong>WiFi IP камера 6MP Dual Lens з сиреною + карта пам'яті 128GB в подарунок</strong></span></h2>
 </div>
 <h3><span style="color:#fc7d02"><strong>Переваги:</strong></span></h3>
@@ -128,13 +128,13 @@
 </ul>
 <p><a href="http://foxxi.com.ua/ua/contacts"><img alt="" src="https://images.prom.ua/6639372005_w1280_h1280_ua1.png?fresh=1" style="width: 49%;" /></a><a href="http://foxxi.com.ua/ua/delivery_info"><img alt="" src="https://images.prom.ua/6639372017_w1280_h1280_ua2.png?fresh=1" style="width: 49%; float: right;" /></a></p>
 <p><a href="http://foxxi.com.ua/ua/product_list"><img alt="" src="https://images.prom.ua/6639378649_w1280_h1280_ua3.png?fresh=1" style="width: 49%;" /></a><a href="http://foxxi.com.ua/ua/"><img alt="" src="https://images.prom.ua/6639372004_w1280_h1280_ua4.png?fresh=1" style="width: 49%; float: right;" /></a></p>]]></description>
-            </offer>
+        </offer>
         <offer id="234572323" available="true">
-                <price>2</price>
-                <currencyId>UAH</currencyId>
-                <categoryId>1</categoryId>
-                <name><![CDATA[Qettopo V380 8Мп Поворотна WiFi камера + Карта 128GB в Подарунок]]></name>
-                <description><![CDATA[<div class="ck-alert ck-alert_theme_orange">
+            <price>2</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>1</categoryId>
+            <name><![CDATA[Qettopo V380 8Мп Поворотна WiFi камера + Карта 128GB в Подарунок]]></name>
+            <description><![CDATA[<div class="ck-alert ck-alert_theme_orange">
 <h2 style="text-align:center"><span style="color:#fc7d02"><strong>Qettopo V380 8Мп Поворотна WiFi камера + Карта 128GB в Подарунок</strong></span></h2>
 </div>
 <h3><span style="color:#fc7d02"><strong>Переваги:</strong></span></h3>
@@ -179,4 +179,7 @@
 </ul>
 <p><a href="http://foxxi.com.ua/ua/contacts"><img alt="" src="https://images.prom.ua/6639372005_w1280_h1280_ua1.png?fresh=1" style="width: 49%;" /></a><a href="http://foxxi.com.ua/ua/delivery_info"><img alt="" src="https://images.prom.ua/6639372017_w1280_h1280_ua2.png?fresh=1" style="width: 49%; float: right;" /></a></p>
 <p><a href="http://foxxi.com.ua/ua/product_list"><img alt="" src="https://images.prom.ua/6639378649_w1280_h1280_ua3.png?fresh=1" style="width: 49%;" /></a><a href="http://foxxi.com.ua/ua/"><img alt="" src="https://images.prom.ua/6639372004_w1280_h1280_ua4.png?fresh=1" style="width: 49%; float: right;" /></a></p>]]></description>
-            </offer>
+        </offer>
+        </offers>
+    </shop>
+</yml_catalog>
