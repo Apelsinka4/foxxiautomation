@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-04-08 18:29">
+<yml_catalog date="2026-04-08 18:40">
     <shop>
         <name>Foxxi</name>
         <company>Foxxi Store</company>
@@ -78,7 +78,7 @@
 <p><a href="http://foxxi.com.ua/ua/product_list"><img alt="" src="https://images.prom.ua/6639378649_w1280_h1280_ua3.png?fresh=1" style="width: 49%;" /></a><a href="http://foxxi.com.ua/ua/"><img alt="" src="https://images.prom.ua/6639372004_w1280_h1280_ua4.png?fresh=1" style="width: 49%; float: right;" /></a></p>]]></description>
         </offer>
         <offer id="234568441" available="true">
-            <price>2</price>
+            <price>2500</price>
             <currencyId>UAH</currencyId>
             <categoryId>1</categoryId>
             <name><![CDATA[WiFi IP камера 6MP Dual Lens з сиреною + карта пам'яті 128GB в подарунок]]></name>
@@ -130,7 +130,7 @@
 <p><a href="http://foxxi.com.ua/ua/product_list"><img alt="" src="https://images.prom.ua/6639378649_w1280_h1280_ua3.png?fresh=1" style="width: 49%;" /></a><a href="http://foxxi.com.ua/ua/"><img alt="" src="https://images.prom.ua/6639372004_w1280_h1280_ua4.png?fresh=1" style="width: 49%; float: right;" /></a></p>]]></description>
         </offer>
         <offer id="234572323" available="true">
-            <price>2</price>
+            <price>2500</price>
             <currencyId>UAH</currencyId>
             <categoryId>1</categoryId>
             <name><![CDATA[Qettopo V380 8Мп Поворотна WiFi камера + Карта 128GB в Подарунок]]></name>
